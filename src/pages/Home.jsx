@@ -557,7 +557,7 @@ export default function Home() {
                   </select>
                 </label>
                 <label>
-                  Note <span className="optional">optional</span>
+                  Note (optional)
                   <input
                     value={newLink.description}
                     onChange={(event) => setNewLink({ ...newLink, description: event.target.value })}
