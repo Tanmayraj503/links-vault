@@ -7,14 +7,14 @@ A calm place for the links you want to come back to — the rabbit holes, and ti
 - 📌 Save and organize links into collections
 - 🔍 Search across all your saved links
 - 🖼️ Custom images for each link (upload or URL)
-- 🌙 Dark mode support
+- 🌙 Dark-light mode support
 - 🗂️ Grid and list view
 - 🔄 Drag-and-drop reordering
 - 💾 Persistent local storage (no account required)
 
 ## Tech Stack
 
-- **React 19** with TypeScript
+- **React 19** with JavaScript
 - **Vite** for bundling
 - **Tailwind CSS v4** for styling
 - **Wouter** for routing
