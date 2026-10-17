@@ -18,7 +18,7 @@ A calm place for the links you want to come back to — the rabbit holes, and ti
 - **Vite** for bundling
 - **Tailwind CSS v4** for styling
 - **Wouter** for routing
-- **IndexedDB** for photo storage
+- **IndexedDB** for card photo storage
 - **LocalStorage** for link data
 
 ## Getting Started
@@ -29,9 +29,6 @@ npm install
 
 # Start dev server
 npm run dev
-
-# Build for production
-npm run build
 ```
 
 ## Usage
