@@ -2,6 +2,15 @@
 
 A calm place for the links you want to come back to - the rabbit holes, and tiny sparks that make your days better.
 
+## Features
+
+- 📌 Save and organize links into collections
+- 🔍 Search across all your saved links
+- 🖼️ Custom images for each link (upload or URL)
+- 🌙 Dark-light mode support
+- 🗂️ Grid and list view
+- 🔄 Drag-and-drop reordering
+- 💾 Persistent local storage (no account required)
 
 ## Tech Stack
 
